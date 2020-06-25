@@ -1,6 +1,6 @@
 node{
     stage ('Git Checkout'){
-  git'https://github.com/tejasrik/maven-project.git'
+  git'https://github.com/tejasrik/Java-Selenium-TestNG-Automation-Framework.git'
   
     }
     
